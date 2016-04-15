@@ -1,6 +1,4 @@
-require 'formula'
-
-class Docker < Formula
+class Docker191 < Formula
   desc "Pack, ship and run any application as a lightweight container"
   homepage "https://www.docker.com/"
   url "https://github.com/docker/docker.git",
